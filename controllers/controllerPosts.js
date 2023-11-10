@@ -14,7 +14,7 @@ function index (req, res) {
                 html.push(`<li>
                     <h2>${post.title}</h2>
                     <p>${post.content}</p>
-                    <image>${post.image}</image>
+                    <img src="/assets/images/${post.image}" alt="" style="width: 100px">
                     <badge>${post.tags}</badge>
                 </li>`)
             });

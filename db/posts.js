@@ -2,7 +2,7 @@ let posts = [
     {
       title: "10 Giochi Imperdibili del 2023",
       content: "Scopri i 10 migliori giochi che dovresti assolutamente giocare nel 2023. Dalle epiche avventure agli sparatutto adrenalinici, abbiamo coperto tutto!",
-      image: "url_image_1.jpg",
+      image: "imperdibili.jpeg",
       tags: ["videogiochi", "2023", "classifiche"]
     },
     {
