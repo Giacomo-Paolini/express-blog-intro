@@ -8,26 +8,26 @@ let posts = [
     {
       title: "Guida Strategica: Come Dominare in Fortnite",
       content: "Migliora le tue abilità in Fortnite con i nostri consigli e trucchi avanzati. Dalle posizioni migliori alle migliori armi, diventerai un vero campione!",
-      image: "url_image_2.jpg",
-      tags: ["Fortnite", "Battle Royale", "strategia"]
+      image: "fortnite.jpg",
+      tags: ["videogiochi", "Battle Royale", "strategia"]
     },
     {
       title: "Recensione: Cyberpunk 2077 a un Anno dal Lancio",
       content: "Dopo un anno dal lancio di Cyberpunk 2077, esaminiamo come il gioco si è evoluto. I bug sono stati risolti? Vale la pena giocarlo ora? Scoprilo nella nostra recensione.",
-      image: "url_image_3.jpg",
-      tags: ["Cyberpunk 2077", "recensione", "aggiornamenti"]
+      image: "cyberpunk.jpg",
+      tags: ["Cyberpunk 2077", "recensione", "videogiochi"]
     },
     {
       title: "I Migliori Giochi Indie del Momento",
       content: "Dai un'occhiata ai gioielli nascosti del mondo indie dei videogiochi. Scopri i titoli indipendenti che stanno catturando l'attenzione degli appassionati di giochi.",
-      image: "url_image_4.jpg",
+      image: "indie.jpeg",
       tags: ["indie", "videogiochi", "raccomandazioni"]
     },
     {
       title: "Intervista con lo Sviluppatore di un Videogioco Indie",
       content: "Approfondiamo il mondo degli sviluppatori indie. In un'intervista esclusiva, uno sviluppatore condivide la sua esperienza nella creazione di un emozionante videogioco indipendente.",
-      image: "url_image_5.jpg",
-      tags: ["sviluppo", "intervista", "indie"]
+      image: "intervista.jpg",
+      tags: ["videogiochi", "intervista", "indie"]
     }
   ];
 
